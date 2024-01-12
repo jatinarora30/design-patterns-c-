@@ -1,0 +1,5 @@
+/home/jatin.arora/Downloads/book/test/src/build/CMakeFiles/rebuild_cache.dir
+/home/jatin.arora/Downloads/book/test/src/build/CMakeFiles/edit_cache.dir
+/home/jatin.arora/Downloads/book/test/src/build/CMakeFiles/test.dir
+/home/jatin.arora/Downloads/book/test/src/build/CMakeFiles/object_counter_test.dir
+/home/jatin.arora/Downloads/book/test/src/build/CMakeFiles/object_counter.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libobject_counter.a  CMakeFiles/object_counter.dir/object_counter.cpp.o
+/usr/bin/ranlib libobject_counter.a

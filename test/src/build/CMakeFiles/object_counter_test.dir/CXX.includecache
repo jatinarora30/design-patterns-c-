@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jatin.arora/Downloads/book/test/src/object_counter.h
+iostream
+-
+
+/home/jatin.arora/Downloads/book/test/src/object_counter_test.cpp
+object_counter.h
+/home/jatin.arora/Downloads/book/test/src/object_counter.h
+gtest/gtest.h
+-
+benchmark/benchmark.h
+-
+

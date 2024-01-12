@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/object_counter_test.dir/object_counter_test.cpp.o  -o object_counter_test  libobject_counter.a /usr/local/lib/libgtest.a -lpthread -lbenchmark 
